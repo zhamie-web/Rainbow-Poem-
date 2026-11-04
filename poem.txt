@@ -3,7 +3,7 @@ The rainbow has many colors
 blue
 pink
 purple
-orange
+deeppink
 indigo 
 baby pink
 The rainbow and the unicorn 
@@ -12,5 +12,5 @@ unicorn
 ponies is very colofule
 like bl;ue
 purple
-pink
+chesnut
 indigo
