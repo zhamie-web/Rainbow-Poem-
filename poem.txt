@@ -11,3 +11,6 @@ green
 orange
 red
 indigo
+earth day
+clean is green
+recycle!
